@@ -1,7 +1,7 @@
 package com.company;
 
 public class Loop {
-    public static void main(String[]args) {
+    public static void main(String[] args) {
 //        int count = 0; //loop which, everytime it loops adds one to count. max amount of loops is 10
 //        //had anything before count, would reset value. iterator is i
 //        int N = 100;
