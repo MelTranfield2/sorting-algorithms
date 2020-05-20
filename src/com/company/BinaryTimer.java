@@ -71,4 +71,4 @@ public abstract class BinaryTimer {
         }
 
     }
-}
+
